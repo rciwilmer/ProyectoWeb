@@ -1,0 +1,30 @@
+/* Hero Section */
+.hero {
+  background: url('https://via.placeholder.com/1920x600') no-repeat center center;
+  background-size: cover;
+  color: white;
+}
+
+/* Custom Button */
+.btn-lg {
+  padding: 10px 20px;
+}
+
+/* Card image size */
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+}
+
+/* Footer styles */
+footer {
+  background-color: #343a40;
+}
+
+footer a {
+  color: #fff;
+}
+
+footer a:hover {
+  color: #f1f1f1;
+}
